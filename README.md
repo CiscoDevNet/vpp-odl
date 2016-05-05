@@ -13,6 +13,7 @@ OpenDaylight (ODL) is an open source application development and delivery platfo
 - Chris Metz
 - Andrej Vanko
 - Ed Warnicke
+- Alex Zverev
 
 ### Project Link:
 
